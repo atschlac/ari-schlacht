@@ -1,5 +1,7 @@
 # Learning Progress Tracker
 
+**Note: This application is currently in the very early stages and is very basic. More functionality and a graphical user interface (GUI) will be added in the future.**
+
 The Learning Progress Tracker is a command-line application designed to help users track their learning progress in different subjects. It provides various options to manage and update information about the subjects the user is studying.
 
 ## How to Use
@@ -15,20 +17,21 @@ The Learning Progress Tracker is a command-line application designed to help use
 
 The Home Page displays the user's name and provides the following options:
 
-- View Limud Progress: Displays the user's name and all the limud (subject) information. Press Enter to go back to the home page.
-- Update Limud Progress: Displays the user's current limud information and prompts for the name of the ספר (book) to update the progress. It also prompts for the page/daf number the user has reached. It updates the progress and displays the updated completion percentage.
-- Delete a Limud: Displays the user's current limud information and prompts for the name of the ספר (book) to delete. It deletes the selected limud from the list and confirms the deletion.
-- End Program: Exits the program.
+- `View Limud Progress`: Displays the user's name and all the limud (subject) information. Press Enter to go back to the home page.
+- `Update Limud Progress`: Displays the user's current limud information and prompts for the name of the ספר (book) to update the progress. It also prompts for the page/daf number the user has reached. It updates the progress and displays the updated completion percentage.
+- `Delete a Limud`: Displays the user's current limud information and prompts for the name of the ספר (book) to delete. It deletes the selected limud from the list and confirms the deletion.
+- `Add a Limud`: Allows the user to enter another limud to be tracked and displayed by the application
+- `End Program`: Exits the program.
 
 ### Limud Class
 
 The Limud class represents a specific subject of study and contains the following attributes:
 
-- Type: The type of limud, such as תנך, משנה, גמרא, מחשבה, or other.
-- Category: The category of the limud, such as סדר (for משנה and גמרא) or ספר (for תנך and מחשבה).
-- Book: The name of the specific book or מסכתא being studied.
-- Quantity: The total quantity or number of pages/dapim to cover in the limud.
-- Amount Complete: The current progress or number of pages/dapim completed.
+- `Type`: The type of limud, such as תנך, משנה, גמרא, מחשבה, or other.
+- `Category`: The category of the limud, such as סדר (for משנה and גמרא) or ספר (for תנך and מחשבה).
+- `Book`: The name of the specific book or מסכתא being studied.
+- `Quantity`: The total quantity or number of pages/dapim to cover in the limud.
+- `Amount Complete`: The current progress or number of pages/dapim completed.
 
 The Limud class provides getters and setters for each attribute and overrides the `toString()` method to display the limud information based on its type.
 
