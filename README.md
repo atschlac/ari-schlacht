@@ -1,5 +1,3 @@
-# ari-schlacht
-
 <h1 align="center">Hi 👋, I'm Ari Schlacht</h1>
 <h3 align="center">A devoted undergraduate student a YU with a major in distributed systems</h3>
 
