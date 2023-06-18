@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ari Schlacht</h1>
-<h3 align="center">A devoted undergraduate student a YU with a major in distributed systems</h3>
+<h3 align="center">A devoted undergraduate student at YU working towards a BS in distributed systems</h3>
 
 - 🔭 I’m currently working on [a learning tracker app](https://github.com/atschlac/ari-schlacht/tree/main/learning_progress_tracker)
 
