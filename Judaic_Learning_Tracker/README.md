@@ -4,12 +4,15 @@
 
 The Learning Progress Tracker is a command-line application designed to help users track their learning progress in different judaic subjects, but can easily be expanded to support all subjects. It provides various options to manage and update information about the subjects the user is studying.
 
-## How to Use
+## Getting Started
 
-1. Run the `DerechClass` class, which contains the main method, to start the program.
-2. The program will display a menu with different options.
-3. Enter the corresponding letter to select an option and press Enter.
-4. Follow the instructions provided by the program to interact and navigate through the options.
+Please note that the Learning Progress Organizer is currently in the early stages of development and only provides basic functionality in a text-based format. To use the software:
+
+1. Clone the repository or download the source code.
+2. Compile and run the application using a Java development environment.
+3. Follow the instructions provided within the application to set up your learning goals, schedule, and progress tracking.
+
+Please keep an eye out for future updates as we continue to enhance the software's functionality and introduce a graphical user interface (GUI) for a more user-friendly experience.
 
 ## Program Features
 
@@ -34,5 +37,10 @@ The Limud class represents a specific subject of study and contains the followin
 - `Amount Complete`: The current progress or number of pages/dapim completed.
 
 The Limud class provides getters and setters for each attribute and overrides the `toString()` method to display the limud information based on its type.
+
+
+## Feedback and Contributions
+
+We appreciate your interest in the Learning Progress Organizer. As this project is in its early stages, we welcome feedback, suggestions, and contributions. If you have any ideas to improve the software or would like to contribute to its development, please submit a pull request or reach out to us via the provided contact information.
 
 **Please note that this program is a command-line application and relies on user input through the console.**
