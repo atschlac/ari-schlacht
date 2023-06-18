@@ -54,7 +54,8 @@ To use the Document Store project, follow these steps:
 1. Clone the repository or download the source code.
 2. Build and compile the Java classes.
 3. Use the provided interfaces and classes to interact with the document store functionality.
-4. Refer to the JavaDoc comments in the code for detailed information on each class and method.
+   - The DocumentStore interface defines a public API to use the document store 
+5. Refer to the JavaDoc comments in the code for detailed information on each class and method.
 
 ## Contributing
 
