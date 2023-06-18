@@ -1,8 +1,8 @@
 # Learning Progress Tracker
 
-**Note: This application is currently in the very early stages and is very basic. More functionality and a graphical user interface (GUI) will be added in the future.**
+**Note: This application is currently in the very early stages and is very basic. Significantly more functionality and a graphical user interface (GUI) will be added in the future.**
 
-The Learning Progress Tracker is a command-line application designed to help users track their learning progress in different subjects. It provides various options to manage and update information about the subjects the user is studying.
+The Learning Progress Tracker is a command-line application designed to help users track their learning progress in different judaic subjects, but can easily be expanded to support all subjects. It provides various options to manage and update information about the subjects the user is studying.
 
 ## How to Use
 
