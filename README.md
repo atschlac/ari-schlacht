@@ -3,13 +3,13 @@
 
 - 🔭 I’m currently working on [a learning tracker app](https://github.com/atschlac/ari-schlacht/tree/main/learning_progress_tracker)
 
-- 🌱 I’m currently learning **PHP**
+- 🌱 I’m currently learning **WEB DEVELOPMENT**
 
 - 👨‍💻 All of my projects are available at [https://github.com/atschlac](https://github.com/atschlac)
 
-- 💬 Ask me about **Python, Java, HTML, CSS, AWS S3**
+- 💬 Ask me about **WEB AND RESTFUL API DEVELOPMENT**
 
-- 📫 How to reach me **arischlacht@gmail.com**
+- 📫 How to reach me **arischlachtcs@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1Cs8od739gWzGFWfWoJWeEu4rjH-enleO/view?usp=sharing](https://drive.google.com/file/d/1Cs8od739gWzGFWfWoJWeEu4rjH-enleO/view?usp=sharing)
 
